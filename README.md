@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack/analista de dados`**
 
-Me chamo Santiago, tenho 24 anos e sou natural de Brasilia. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e automobilismo e tento juntar as duas áreas que eu mais gosto.
+Me chamo Santiago, sou de Brasilia. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e automobilismo e tento juntar as duas áreas que eu mais gosto.
 
 <p align="left">  
   
